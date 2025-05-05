@@ -2,8 +2,8 @@
 
 This simple Python script, designed to run in **Google Colab**, filters an inventory Excel file (`WAREHOUSE.xlsx`) by keeping only the rows that match entries found in a second reference Excel file (`EXCEL-X.xlsx`), based on:
 
-- `Item Code` (Item Code)
-- `Item Description` (Item Description)
+- `Κωδικός Είδους` (Item Code)
+- `Περιγραφή Είδους` (Item Description)
 
 ## Use Case
 
